@@ -1,0 +1,60 @@
+h4{
+	font-size: 50px;
+	border: 5px orange dashed;
+    color: red;
+	background-color:yellow;
+}
+
+.heading-1{
+	font-size: 50px;
+	border: 5px blue dotted;
+    color: pink;
+	background-color:orange;
+}
+
+#text{
+font-size: 50px;
+	border: 5px blue solid;
+    color: purple;
+	background-color:skyblue;
+
+}
+
+
+h5 {
+	font-size: 30px;
+    color: blueviolet;}
+
+.header{
+	height: 100px;
+	background-color: red;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+.blog{
+	float: left;
+	width:40% ;
+	height: 200px;
+	background-color: purple;
+}
+.content{
+	float: right;
+	width:60% ;
+	height: 200px;
+	background-color: deepskyblue ;
+}
+.box{
+	float: left;
+	width: 33.33%;
+	height: 100px;
+}
+.red{background-color: lightgreen;}
+.blue{background-color: lightcoral;}
+.green{background-color: lightblue;}
+
+.footer{
+	height: 100px;
+	background-color: tomato;
+}
